@@ -11,4 +11,4 @@
     * [🎯 Kariyer Yolları](mbti/entj/kariyer-yollari.md)
     * [👨💼 İş Yeri Alışkanlıkları](mbti/entj/is-yeri-aliskanliklari.md)
     * [⭐ Sonuç](mbti/entj/sonuc.md)
-* [Page 1](page-1.md)
+* [📑 Yazılarım](yazilarim.md)
