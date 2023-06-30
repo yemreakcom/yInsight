@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🔮 Hayatı Anlama](README.md)
+* [🔮 Kendini Keşfetmeye Hazır Mısın](README.md)
 * [❣ Duygular](duygular/README.md)
   * [Aşk](duygular/ask.md)
   * [Kabullenme](duygular/kabullenme.md)
