@@ -26,6 +26,7 @@
   * [Gurur](duygular/gurur.md)
   * [Hayal kırıklığı](duygular/hayal-kirikligi.md)
   * [Hayal](duygular/hayal.md)
+  * [Hafiflik](duygular/hafiflik.md)
   * [Hayranlık](duygular/hayranlik.md)
   * [Hayal Gücü](duygular/hayal-guecue.md)
   * [Hayret](duygular/hayret.md)
