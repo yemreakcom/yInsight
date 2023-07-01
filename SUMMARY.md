@@ -15,6 +15,7 @@
   * [Depresyon](duygular/depresyon.md)
   * [Doymuşluk](duygular/doymusluk.md)
   * [Endişe](duygular/endise.md)
+  * [Enerji](duygular/enerji.md)
   * [Eğlence](duygular/eglence.md)
   * [Fedakarlık](duygular/fedakarlik.md)
   * [Gerilim](duygular/gerilim.md)
