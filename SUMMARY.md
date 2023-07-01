@@ -60,7 +60,7 @@
   * [Merhamet](duygular/merhamet.md)
   * [Minnettarlık](duygular/minnettarlik.md)
   * [Mutluluk](duygular/mutluluk.md)
-  * [Mükemmelliyetçilik](duygular/muekemmelliyetcilik.md)
+  * [Mükemmelliyetçilik](duygular/mukemmelliyetcilik.md)
   * [Nefret](duygular/nefret.md)
   * [Neşe](duygular/nese.md)
   * [Öfke](duygular/oefke.md)
