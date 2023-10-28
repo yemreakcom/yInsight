@@ -54,3 +54,5 @@ Tabiki ben de kendi kişiliğimi ve motivasyonlarımı anlamak ve analiz etmek i
 * 💖 Bu blog, size insan davranışlarını ve kişilikleri daha derin bir düzeyde anlamayı ve deneyimlemeyi sunmayı amaçlıyor. Siz de bu yolculuğa katılın ve kendi iç dünyanızı daha iyi anlayın.
 * ✨ Her zaman yeni deneyimler, yeni analizler ve yeni önerilerle burada olacağım. Siz de gelişimime katılın ve bu büyülü yolculuğun parçası olun.&#x20;
 * 🧙‍♂️ \~ yEmreAk
+
+{% embed url="https://www.yemreak.com" %}
